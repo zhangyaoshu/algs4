@@ -21,6 +21,15 @@
 
 package edu.princeton.cs.algs4;
 
+import edu.princeton.cs.algs4.section1.StdOut;
+import edu.princeton.cs.algs4.section1.UF;
+import edu.princeton.cs.algs4.section2.IndexMaxPQ;
+import edu.princeton.cs.algs4.section4.Edge;
+import edu.princeton.cs.algs4.section4.EdgeWeightedGraph;
+import edu.princeton.cs.algs4.section6.FlowEdge;
+import edu.princeton.cs.algs4.section6.FlowNetwork;
+import edu.princeton.cs.algs4.section6.FordFulkerson;
+
 /**
  * The {@code GlobalMincut} class represents a data type for computing a
  * <em>global minimum cut</em> in an edge-weighted graph where the edge

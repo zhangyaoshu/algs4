@@ -10,6 +10,9 @@ package edu.princeton.cs.algs4;
 
 import java.util.Arrays;
 
+import edu.princeton.cs.algs4.section1.StdIn;
+import edu.princeton.cs.algs4.section1.StdOut;
+
 /**
  * The {@code SegmentTree} class is an structure for efficient search of cummulative data.
  * It performs  Range Minimum Query and Range Sum Query in O(log(n)) time.

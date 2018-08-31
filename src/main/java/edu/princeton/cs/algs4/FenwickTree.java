@@ -8,8 +8,8 @@
 
 package edu.princeton.cs.algs4;
 
-import java.util.ArrayList;
-import java.util.Arrays;
+import edu.princeton.cs.algs4.section1.StdIn;
+import edu.princeton.cs.algs4.section1.StdOut;
 
 /**
  * Created by ricardodpsx@gmail.com on 4/01/15.

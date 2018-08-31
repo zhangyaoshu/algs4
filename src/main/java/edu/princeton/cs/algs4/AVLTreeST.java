@@ -27,6 +27,17 @@ package edu.princeton.cs.algs4;
 
 import java.util.NoSuchElementException;
 
+import edu.princeton.cs.algs4.section1.Queue;
+import edu.princeton.cs.algs4.section1.StdIn;
+import edu.princeton.cs.algs4.section1.StdOut;
+import edu.princeton.cs.algs4.section3.BST;
+import edu.princeton.cs.algs4.section3.BinarySearchST;
+import edu.princeton.cs.algs4.section3.LinearProbingHashST;
+import edu.princeton.cs.algs4.section3.RedBlackBST;
+import edu.princeton.cs.algs4.section3.ST;
+import edu.princeton.cs.algs4.section3.SeparateChainingHashST;
+import edu.princeton.cs.algs4.section3.SequentialSearchST;
+
 /**
  *  The {@code AVLTreeST} class represents an ordered symbol table of
  *  generic key-value pairs. It supports the usual <em>put</em>, <em>get</em>,

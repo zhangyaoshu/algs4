@@ -14,6 +14,8 @@
 
 package edu.princeton.cs.algs4;
 
+import edu.princeton.cs.algs4.section1.StdOut;
+
 public class Alphabet {
 
     /**
